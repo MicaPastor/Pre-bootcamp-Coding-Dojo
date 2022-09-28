@@ -1,4 +1,10 @@
-var age; 
-var height;
-// Si var age es mayor a 10 y var height es mayor a 1 la persona puede ingresar al juego.
+var age=10; 
+var height=52;
+if (height > 52 && age >= 10) {
+    console.log ("¡Súbete, chico!")
+}
+else {
+    console.log ("Lo siento, chico. Tal vez el próximo año")
+}
+
 
